@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Motu's Face -->
+  <circle cx="50" cy="50" r="45" fill="#ffdbac"/>
+  <!-- Red cap/background -->
+  <ellipse cx="50" cy="25" rx="35" ry="20" fill="#f43f5e"/>
+  <!-- Eyes -->
+  <circle cx="38" cy="45" r="5" fill="#000"/>
+  <circle cx="62" cy="45" r="5" fill="#000"/>
+  <circle cx="40" cy="43" r="2" fill="#fff"/>
+  <circle cx="64" cy="43" r="2" fill="#fff"/>
+  <!-- Mustache -->
+  <path d="M 25 60 Q 35 52 50 60 Q 65 52 75 60" fill="#333" stroke="#333" stroke-width="3"/>
+  <!-- Smile -->
+  <path d="M 35 70 Q 50 82 65 70" stroke="#333" stroke-width="3" fill="none"/>
+  <!-- Cheeks -->
+  <circle cx="25" cy="55" r="6" fill="#ffb6c1" opacity="0.5"/>
+  <circle cx="75" cy="55" r="6" fill="#ffb6c1" opacity="0.5"/>
+</svg>
